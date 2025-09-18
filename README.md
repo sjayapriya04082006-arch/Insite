@@ -1,1 +1,1 @@
-# Insite
+# insightStream 
